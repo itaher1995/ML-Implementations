@@ -1,0 +1,2 @@
+In order to run this file, you must have the data stored in HW1 Data/ You need access to the anaconda distribution, namely jupyter notebook, 
+scipy, numpy and matplotlib in order for this file to run. Open in Jupyter notebook and then let run.
