@@ -11,3 +11,5 @@ As of now the following algorithms have been implemented:
 
 * Linear Regression
 * Logistic Regression
+* Simplified SMO SVM
+* Feedforward Neural Network
